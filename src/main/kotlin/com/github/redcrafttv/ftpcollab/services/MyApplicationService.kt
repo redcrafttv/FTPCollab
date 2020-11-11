@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.redcrafttv.ftpcollab.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.redcrafttv.ftpcollab.MyBundle
 
 class MyApplicationService {
 
